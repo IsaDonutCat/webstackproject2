@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.95.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "node-sql": "^1.1.5",
+    "postgres": "^3.4.8",
+    "xlsx": "^0.18.5"
+  }
+}
